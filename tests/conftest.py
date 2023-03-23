@@ -10,6 +10,13 @@ from ui_testing.utils import attach
 from ui_testing.model.data.user import User
 
 
+@pytest.fixture
+def practice_page():
+    page = PracticePage()
+    page.open()
+    return page
+
+
 @pytest.fixture(scope='session', autouse=True)
 def load_env():
     load_dotenv()
@@ -63,9 +70,3 @@ def user():
         state='NCR',
         city='Delhi'
     )
-
-
-@pytest.fixture(scope="function")
-def practice_form():
-    return PracticePage()
-

@@ -91,3 +91,29 @@ class PracticePage:
             user.address,
             user.state + ' ' + user.city))
         return self
+
+    def assert_validation_skin(self):
+        browser.element('#app') \
+            .should(have.text('Student Registration Form'))
+        return self
+
+    def assert_validation_phone_number(self):
+        browser.element('#userNumber') \
+            .should(have.css_property('border-color', value='rgb(220, 53, 69)'))
+        return self
+
+    def assert_validation_email(self):
+        browser.element('#userEmail') \
+            .should(have.css_property('border-color', value='rgb(220, 53, 69)'))
+        return self
+
+    def assert_required_fields(self):
+        browser.element('#firstName') \
+            .should(have.css_property('border-color', value='rgb(220, 53, 69)'))
+        browser.element('#lastName') \
+            .should(have.css_property('border-color', value='rgb(220, 53, 69)'))
+        browser.element('[for^="gender-radio"]') \
+            .should(have.css_property('border-color', value='rgb(220, 53, 69)'))
+        browser.element('#userNumber') \
+            .should(have.css_property('border-color', value='rgb(220, 53, 69)'))
+        return self
