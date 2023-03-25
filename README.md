@@ -32,7 +32,7 @@
 - Тест на подтверждение завершения заполнения формы
 
 
-##### Видео прохождение теста
+##### Видео о прохождении одного из тестов
 ![This is an image](screenshots/video.gif)
 
 <!-- Jenkins -->
@@ -56,8 +56,20 @@
 ![This is an image](screenshots/testOps_test_cases.PNG)
 
 <!-- Allure report -->
+
 ## <img height="30" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/allure_report.png"> Allure Report
 ### [ALLURE REPORT](https://allure.autotests.cloud/launch/21112)
 ##### это инструмент для генерации отчетов о результатах тестирования, которые позволяют наглядно отображать статус выполнения тестов, результаты прохождения их шагов, а также информацию о возможных проблемах и ошибках
 ![This is an image](screenshots/allure_report.PNG)
 
+
+<!-- Jira -->
+
+## <img height="30" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/jira.png"> Интеграция с Jira
+![This is an image](screenshots/jira.PNG)
+
+<!-- Telegram -->
+
+## <img height="30" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/tg.png"> Telegram
+##### в проект добавлена функция отправки Allure report с ключевой информацией в Telegram
+![This is an image](screenshots/telegram.PNG)
