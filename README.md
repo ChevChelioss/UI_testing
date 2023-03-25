@@ -31,6 +31,10 @@
 - Тест на заполнение формы с неправильным номером телефона
 - Тест на подтверждение завершения заполнения формы
 
+
+##### Видео прохождение теста
+![This is an image](screenshots/video.gif)
+
 <!-- Jenkins -->
 
 ## <img height="30" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/jenkins.png"> Jenkins
