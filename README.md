@@ -41,7 +41,7 @@
 ##### Кликните "Собрать сейчас"
 запущенную сборку вы увидите в "Истории сборки" 
 
-тамже рядом появятся две кнопки - зеленая откроет для нас allure test ops, а желтая allure report  
+там же рядом появятся две кнопки - зеленая откроет для нас allure test ops, а желтая allure report  
 ![This is an image](screenshots/jenkins_job.PNG)
 
 <!-- Allure TestOps -->
