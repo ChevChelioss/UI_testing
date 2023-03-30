@@ -11,6 +11,8 @@
 <code><img height="50" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/selene.png"></code>
 <code><img height="50" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/allure_testops.png"></code>
 <code><img height="50" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/allure_report.png"></code>
+<code><img height="50" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/selenoid.png"></code>
+<code><img height="50" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/requests.png"></code>
 <code><img height="50" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/jenkins.png"></code>
 <code><img height="50" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/selenium.png"></code>
 <code><img height="50" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/jira.png"></code>
